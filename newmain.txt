@@ -1,0 +1,2 @@
+This is the new file in the main branch
+-hope it works correctly
